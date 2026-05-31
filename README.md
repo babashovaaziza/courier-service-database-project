@@ -22,3 +22,5 @@ Database design and implementation for a food delivery and courier service compa
 - Export_XML_JSON_CSV.sql
 - ERD_Diagram.png
 - EERD_Diagram.png# courier-service-database-project
+## Author
+Aziza Babashova
